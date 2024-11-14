@@ -1,7 +1,7 @@
 import './App.css'
 
 function App() {
-  return <>Hi</>
+  return <div>Hello. I am Yoked.</div>
 }
 
 export default App
